@@ -1,0 +1,30 @@
+.block {
+  margin: 0 0.8rem;
+}
+.form {
+  display: grid;
+  place-items: center;
+
+  margin: 1rem auto;
+  max-width: 500px;
+}
+.formBlock {
+  display: flex;
+  margin: 0.2rem 0;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.formButton {
+  padding: 0.5rem 1rem;
+  text-transform: capitalize;
+  margin: 1rem 0;
+  background: rgba(37, 46, 160, 0.566);
+  border-radius: 1rem;
+  color: white;
+}
+
+.color {
+  font-weight: 500;
+  color: blue;
+}
